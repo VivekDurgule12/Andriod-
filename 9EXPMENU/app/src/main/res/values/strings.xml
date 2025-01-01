@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Option Menu App</string>
+    <string name="profile_selected">Profile Selected</string>
+    <string name="settings_selected">Settings Selected</string>
+    <string name="exit_selected">Exit Selected</string>
+    <string name="profile_selected_toast">View Profile Selected</string>
+    <string name="settings_selected_toast">Settings Selected</string>
+    <string name="exit_selected_toast">Exiting App...</string>
+</resources>
